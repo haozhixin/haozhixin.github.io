@@ -1,9 +1,11 @@
-# python-基础 list、tuple操作
-
-@(python)[list/tuple]
-
-------------
-[TOC]
+---
+title: Python基础操作之list/tuple
+author: Cotes Chung
+date: 2020-09-21 14:30:00 +0800
+categories: [Blogging, Tutorial]
+tags: [python基础]
+pin: true
+---
 
 ## 列表  list
 
