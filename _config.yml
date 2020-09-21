@@ -10,7 +10,7 @@
 
 title: yark                          # the main title
 
-tagline: 技术分享,生活记录.  # it will display as the sub-title
+tagline: 但行好事，莫问前程.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -27,8 +27,8 @@ avatar: /assets/img/sample/avatar.jpg   # support internet resources
 github:
   username: haozhixin             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+#twitter:
+#  username: twitter_username            # change to your twitter username
 
 social:
   name: your_full_name                  # it will shows as the copyright owner in Footer
