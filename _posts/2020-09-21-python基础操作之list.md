@@ -7,6 +7,8 @@ tags: [python基础]
 pin: true
 ---
 
+[TOC]
+
 ## 列表  list
 
 列表 作为python常见数据类型之一，可增、删、改
